@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySudoku</string>
+	<string name='new_game_title'>Difficulty</string>
+	<string name='easy_label'>Easy</string>
+	<string name='medium_label'>Medium</string>
+	<string name='hard_label'>Hard</string>
+	<string name='no_moves_label'>No moves</string>
+	<string name='keypad_title'>Keypad</string>
+	<string name='win_title'>Congratulations</string>
+	<string name='win_text'>You win\n\nNew Game?</string>
+	<string name='ok'>Ok</string>
+	<string name='cancel'>Cancel</string>
+	<string name='undo'>Undo</string>
+	<string name='new_game'>New Game</string>
+	<string name='reset'>Reset</string>
+</resources>
