@@ -15,3 +15,6 @@ Undo - the user can undo last step.
 
 
 Reset - the user can reset the game to initial state.
+
+
+![screenshot](https://github.com/dindin0497/MySudoku/blob/master/Screenshot.png)
